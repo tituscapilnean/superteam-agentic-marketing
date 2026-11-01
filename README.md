@@ -1,6 +1,6 @@
 # The Agentic Marketing Team
 
-A 10-slide deck for opening a conversation with Superteam Balkan: what I learned running marketing as one human directing a team of agents, and what it could mean for Solana teams. Served at https://tituscapilnean.ro/agentic-marketing/ via GitHub Pages.
+A 10-slide deck for opening a conversation with Superteam Balkan: what I learned running marketing as one human directing a team of agents, and what it could mean for Solana teams. Served at https://tituscapilnean.ro/superteam-agentic-marketing/ via GitHub Pages.
 
 Plain static HTML, CSS and JS. No build step. GitHub Pages serves the repo root from `main`.
 
